@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   </div>
+
+ 
   <div>
     <p>&nbsp;<strong>Languages</strong></p>
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -34,6 +36,8 @@
   </div>
   <br>
 </p>
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iambk)](https://solved.ac/iambk/)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bk-git-hub&show_icons=true&theme=radical)
