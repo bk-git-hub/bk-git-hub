@@ -2,7 +2,7 @@
 
 
 
-### 💻 프론트엔드 개발자 | Web Developer
+### 💻 웹 개발자 | Web Developer
 
 <h2>⚒️Stacks</h2>
 <p>
