@@ -2,12 +2,12 @@
 
 
 
-### 💻 프론트엔드 개발자 | Frontend Developer
+### 💻 프론트엔드 개발자 | Web Developer
 
 <h2>⚒️Stacks</h2>
 <p>
   <div>
-    <p>&nbsp;<strong>Frontend</strong></p>
+    <p>&nbsp;<strong>Web</strong></p>
   <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=ffffff"/>
